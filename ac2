@@ -1,319 +1,135 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="---●★| MOVISTAR |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| MOVISTAR |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34967.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES| LA 1 FHD" tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA 1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59790.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 HD" tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA 1 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59852.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="|ES| LA 2 FHD" tvg-logo="http://51.15.10.117/logos/picon/la2.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA 2 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59791.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 2 HD" tvg-logo="http://51.15.10.117/logos/picon/la2.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA 2 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59853.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7534_426_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| ANTENA 3 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59794.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENA  3 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7534_426_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| ANTENA  3 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59881.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C7_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CUATRO FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59793.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C7_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CUATRO HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59882.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7536_426_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TELECINCO FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59797.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELECINCO HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7536_426_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TELECINCO HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59861.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LA SEXTA  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA SEXTA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59872.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LA SEXTA  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA SEXTA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59795.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MEGA  FHD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_2_17E9_3D_800_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MEGA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59796.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="|ES| MEGA  HD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_2_17E9_3D_800_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MEGA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59865.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="IB3.es" tvg-name="|ES| BLAZE  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| BLAZE  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59803.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="SolMusica.sp" tvg-name="|ES| BLAZE HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| BLAZE HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59866.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VAMOS  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| VAMOS  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59836.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VAMOS  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| VAMOS  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59855.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7824_428_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CALLE 13 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59807.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CALLE 13  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7824_428_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CALLE 13  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59886.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="|ES| CLAN TV  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77BE_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CLAN TV  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59802.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CLAN TVE HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77BE_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CLAN TVE HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59862.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="|ES| COSMO FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7730_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| COSMO FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59804.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| COSMO HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7730_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| COSMO HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59858.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C9_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TNT FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59806.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT  HD " tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C9_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TNT  HD 
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59876.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="|ES| AXN FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_4E5B_C86_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AXN FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59817.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_4E5B_C86_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AXN HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59878.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| SYFY  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7796_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| SYFY  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59869.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| SYFY  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7796_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| SYFY  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59813.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TCM  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76C7_40E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TCM  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59811.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TCM  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76C7_40E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TCM  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59874.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="|ES| NEOX  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_75FE_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| NEOX  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59798.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="|ES| NOVA  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_2_23DA_44A_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| NOVA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59799.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="|ES| NOVA  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_2_23DA_44A_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| NOVA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59883.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746F_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| FOX  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59880.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX  FHD+" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746F_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| FOX  FHD+
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59814.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ODISEA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| ODISEA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59822.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="|ES| AMC  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76CF_40E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AMC  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59810.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="IB3.es" tvg-name="|ES| SUNDANCE HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76A5_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| SUNDANCE HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59808.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CAZA Y PESCA  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_772B_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CAZA Y PESCA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59809.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| #0 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7478_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| #0 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59792.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★|  CINE  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★|  CINE  |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34931.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.SERIES FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.SERIES FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59830.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.SERIES  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7696_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.SERIES  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59907.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.DRAMA FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746E_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.DRAMA FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59835.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.DRAMA  HD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_1_3B_C11_6E_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.DRAMA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59904.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.ACCION FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746C_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.ACCION FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59833.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.ACCION  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746C_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.ACCION  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59908.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.ESTRENOS  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.ESTRENOS  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59832.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.ESTRENOS  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.ESTRENOS  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59905.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M. SERIES 2 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7696_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M. SERIES 2 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59909.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M. SERIES 2 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7696_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M. SERIES 2 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59906.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.COMEDIA FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746D_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.COMEDIA FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59834.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★| ALQUILER  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| ALQUILER  |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89931.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Alquiler1.es" tvg-name="|ES| MOVISTAR+ ALQUILER 1 HD" tvg-logo="http://nettvgo.in:2052/images/c61cf17c1d5287f948e181a4d5d7b289.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 1 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107677.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Alquiler2.es" tvg-name="|ES| MOVISTAR+ ALQUILER 2 HD" tvg-logo="http://nettvgo.in:2052/images/7d1b6ddf8ad6b69ac1e643ac952092f2.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 2 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107678.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Alquiler2.es" tvg-name="|ES| MOVISTAR+ ALQUILER 3 HD" tvg-logo="http://nettvgo.in:2052/images/c24859063e8a6d3d9a3acd10e0b73ab1.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 3 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107679.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 4 HD" tvg-logo="http://nettvgo.in:2052/images/2097d12313407cdc1b4135c5840e263a.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 4 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107680.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 5 HD" tvg-logo="http://nettvgo.in:2052/images/eb0ac43e388902150e7a3ad147e8d1cd.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 5 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107681.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 6 HD" tvg-logo="http://nettvgo.in:2052/images/cf7282f88262f9a75761819b4e9b13a9.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 6 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107682.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 7 HD" tvg-logo="http://nettvgo.in:2052/images/07f5badd17de8b84b04b30cdf95ab49a.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 7 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107683.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 8 HD" tvg-logo="http://nettvgo.in:2052/images/2b4b4dbc5b3df4a900f9416434e59705.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 8 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107684.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER 9 HD" tvg-logo="http://nettvgo.in:2052/images/07f5badd17de8b84b04b30cdf95ab49a.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER 9 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107685.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ ALQUILER  10  HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/M+Alquiler.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ ALQUILER  10  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/107686.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★|  DEPORTES  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★|  DEPORTES  |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34953.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name=" |ES|  DAZN F1 FHD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES|  DAZN F1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89715.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name=" |ES| DAZN F1  HD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN F1  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89710.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name=" |ES| DAZN 1 FHD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN 1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89703.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="  |ES| DAZN 1 HD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV",  |ES| DAZN 1 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89702.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name=" |ES| DAZN 2 FHD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN 2 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89705.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name=" |ES| DAZN 2 HD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN 2 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89704.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="  |ES| DAZN 3 FHD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV",  |ES| DAZN 3 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89707.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN3.es" tvg-name=" |ES| DAZN 3 HD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN 3 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89706.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="|ES| DAZN 4 FHD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DAZN 4 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89709.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DAZN4.es" tvg-name=" |ES| DAZN 4 HD" tvg-logo="http://51.15.10.117/logos/picon/dazn.png" group-title="|TV| ESPAGNE  | IPTV", |ES| DAZN 4 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89708.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.LALIGA FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7797_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89897.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.LALIGA 1 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_74FF_420_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89899.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.LALIGA 2 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7580_412_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 2 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89901.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.LALIGA 3 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_785F_41A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 3 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89903.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="|ES| M.LALIGA 4 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_769B_41E_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 4 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89904.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="|ES| M.LALIGA 5 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7579_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 5 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89905.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LaLiga7.es" tvg-name="|ES| M.LALIGA 7 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_756E_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 7 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89906.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LaLiga8.es" tvg-name="|ES| M.LALIGA 8 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7690_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 8 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89907.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.LALIGA 9 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7581_412_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 9 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89908.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LaLiga10.es" tvg-name="|ES| M.LALIGA 10 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7578_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M.LALIGA 10 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89909.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 1 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_757A_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89913.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="|ES| M+ LCAMPEON 1 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_757A_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 1 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89912.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="|ES| M+ LCAMPEON 2 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_769F_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 2 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89915.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="|ES| M+ LCAMPEON 2 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_769F_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 2 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89914.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones4.es" tvg-name="|ES| M+ LCAMPEON 4 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_769D_41E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 4 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89917.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones3.es" tvg-name="|ES| M+ LCAMPEON 3 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_757F_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 3 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89916.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="|ES| M+ LCAMPEON 5 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_757D_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 5 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89918.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones6.es" tvg-name="|ES| M+ LCAMPEON 6 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_757C_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEON 6 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89919.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="|ES| M+ LCAMPEONES FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEONES FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89911.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="|ES| M+ LCAMPEONES HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ LCAMPEONES HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/89910.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="|ES| M+ DEPORTS 1  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_778F_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ DEPORTS 1  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59849.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 1  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_778F_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ DEPORTES 1  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59912.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR + GOLF  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7789_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR + GOLF  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59848.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR+ GOLF  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7789_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MOVISTAR+ GOLF  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59911.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN F1 FHD  " tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_7531_426_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DAZN F1 FHD  
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59847.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| GOL TV HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| GOL TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59837.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| REAL MADRID TV HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7601_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| REAL MADRID TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59916.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| REAL MADRID HD+" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7601_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| REAL MADRID HD+
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59839.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="|ES| BEIN LIGA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7797_424_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| BEIN LIGA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59915.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="|ES| BARCA TV HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7793_424_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| BARCA TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59917.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TOROS TV  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7570_412_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| TOROS TV  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59846.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| GOL TV  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| GOL TV  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59913.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_74A1_41C_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| EUROSPORT 1 FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59838.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX LIFE  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_78B5_3EC_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| FOX LIFE  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59815.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="AandE.es" tvg-name="|ES| BEMAD HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C4_40A_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| BEMAD HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59820.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★| NINOS |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| NINOS |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/11756.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| BOING HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_232D_442_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| BOING HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59891.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NEOX  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_75FE_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| NEOX  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59875.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NICK JR HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_6FF5_436_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| NICK JR HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59892.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CHANNEL HD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_19_12C6_30_800_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DISNEY CHANNEL HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59893.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CHANNEL FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_16_17B1_C82_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DISNEY CHANNEL FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59827.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NICKELODEON HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| NICKELODEON HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59828.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★| CULTURA |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| CULTURA |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34900.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES|NATIONAL GEOGRAPHIIC FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_4E9B_CA4_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES|NATIONAL GEOGRAPHIIC FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59825.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NATIONAL GEOGRAPHIC  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_4E9B_CA4_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| NATIONAL GEOGRAPHIC  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59889.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NAT GEO WILD FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77D8_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| NAT GEO WILD FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59829.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| COMEDY CENTRAL  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_26B0_43E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| COMEDY CENTRAL  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59885.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CRIMEN+INVES HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7732_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CRIMEN+INVES HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59890.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="|ES| DISCOVERY CHANNEL HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_16_17D1_C82_3_EB0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DISCOVERY CHANNEL HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59824.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| COMEDY CENTRAL  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_26B0_43E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| COMEDY CENTRAL  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59826.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HOLLYWOOD  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C1_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| HOLLYWOOD  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59884.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77C1_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| HOLLYWOOD FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59816.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HISTORIA  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7731_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| HISTORIA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59887.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HISTORIA  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7731_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| HISTORIA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59888.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★| ENTRETENIMIENTO |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| ENTRETENIMIENTO |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34917.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| #0 HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7478_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| #0 HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59854.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FDF HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_77BC_40A_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| FDF HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59863.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="|ES| AXN WHITE HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7471_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AXN WHITE HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59818.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="|ES| CANAL SUR FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7729_416_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL SUR FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59821.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| IBERALIA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| IBERALIA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59850.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="|ES| CANAL DECASA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7795_424_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL DECASA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59823.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="|ES| CANAL 24 HORAS  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7738_416_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL 24 HORAS  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59856.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEMADRID FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76CC_40E_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| TELEMADRID FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59819.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| IBERALIA  FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| IBERALIA  FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59864.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DIVINITY HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_749A_41C_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| DIVINITY HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59867.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL  COCINA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76CE_40E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL  COCINA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59868.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DECASA  HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7795_424_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL DECASA  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59870.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ENERGY HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_749F_41C_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| ENERGY HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59871.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_76CF_40E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AMC HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59873.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ OSCARS FHD " tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_78B5_3EC_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| M+ OSCARS FHD 
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59877.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN WHITE FHD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7471_3F0_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| AXN WHITE FHD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59879.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| PANDA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_75FF_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| PANDA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59894.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV SPAIN HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| MTV SPAIN HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59895.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| PARAMOUNT CHANNEL HD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_19_3F0_A_800_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| PARAMOUNT CHANNEL HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59859.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="TvCanaria.es" tvg-name="|ES| CANAL SUR HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_7729_416_1_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL SUR HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59896.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| GALICIA TV HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_4EE3_C81_3_EB0000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| GALICIA TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59897.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL MALAGA HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_16_18_2_85_C00000_0_0_0.png " group-title="|TV| ESPAGNE  | IPTV",|ES| CANAL MALAGA HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59898.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="AandE.es" tvg-name="|ES| ANDALUCIA TV HD" tvg-logo="http://51.15.10.117/logos/midar/nilesat/1_0_1_1FB_5_800_DCA0000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| ANDALUCIA TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59899.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="M.LigaCampeones8.es" tvg-name="|ES| HOURTS TV  HD" tvg-logo="http://51.15.10.117/logos/picon/sevilla.png" group-title="|TV| ESPAGNE  | IPTV",|ES| HOURTS TV  HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59900.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="Apunt.es" tvg-name="|ES| ARAGON TV HD" tvg-logo="http://51.15.10.117/logos/midar/astra/1_0_1_75FD_408_1_C00000_0_0_0.png" group-title="|TV| ESPAGNE  | IPTV",|ES| ARAGON TV HD
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/59901.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★|  MUSICA  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★|  MUSICA  |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/11757.ts?play_token=go5TtfBfch:1673135537:5529
-#EXTINF:-1 tvg-id="" tvg-name="---●★|  NOTICIAS  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★|  NOTICIAS  |★●---
-http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34956.ts?play_token=go5TtfBfch:1673135537:5529
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3  ES" tvg-logo="" group-title="Spain Channel",ANTENA 3  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9908
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones ES" tvg-logo="" group-title="Spain Channel",M. Liga de Campeones ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9336
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 1 FHD ES" tvg-logo="" group-title="Spain Channel",M. Deportes 1 FHD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9332
+#EXTINF:-1 tvg-id="" tvg-name="M. Formula 1 FHD ES" tvg-logo="" group-title="Spain Channel",M. Formula 1 FHD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9333
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR  ES" tvg-logo="" group-title="Spain Channel",LALIGA TV BAR  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9760
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA HD ES" tvg-logo="" group-title="Spain Channel",M. LA LIGA HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9338
+#EXTINF:-1 tvg-id="" tvg-name="M Futbol HD ES" tvg-logo="" group-title="Spain Channel",M Futbol HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9334
+#EXTINF:-1 tvg-id="" tvg-name="M. DCine ES" tvg-logo="" group-title="Spain Channel",M. DCine ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9304
+#EXTINF:-1 tvg-id="" tvg-name="M. Accion ES" tvg-logo="" group-title="Spain Channel",M. Accion ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9337
+#EXTINF:-1 tvg-id="" tvg-name="M. Series Xtra ES" tvg-logo="" group-title="Spain Channel",M. Series Xtra ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9339
+#EXTINF:-1 tvg-id="" tvg-name="M. + Acción  ES" tvg-logo="" group-title="Spain Channel",M. + Acción  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9302
+#EXTINF:-1 tvg-id="" tvg-name="M. Comedia ES" tvg-logo="" group-title="Spain Channel",M. Comedia ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9303
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD ES" tvg-logo="" group-title="Spain Channel",Telecinco HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9293
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Spain Channel",Real Madrid TV ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9340
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV ES" tvg-logo="" group-title="Spain Channel",Barca TV ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9346
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas ES" tvg-logo="" group-title="Spain Channel",24 Horas ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9294
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional ES" tvg-logo="" group-title="Spain Channel",TVE Internacional ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9295
+#EXTINF:-1 tvg-id="" tvg-name="La 1 ES" tvg-logo="" group-title="Spain Channel",La 1 ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9306
+#EXTINF:-1 tvg-id="" tvg-name="FDF ES" tvg-logo="" group-title="Spain Channel",FDF ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9296
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD ES" tvg-logo="" group-title="Spain Channel",Fox HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9301
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE  ES" tvg-logo="" group-title="Spain Channel",FOX LIFE  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9750
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD ES" tvg-logo="" group-title="Spain Channel",Disney Channel HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9305
+#EXTINF:-1 tvg-id="" tvg-name="SYFY ES" tvg-logo="" group-title="Spain Channel",SYFY ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9349
+#EXTINF:-1 tvg-id="" tvg-name="Viajar HD ES" tvg-logo="" group-title="Spain Channel",Viajar HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9350
+#EXTINF:-1 tvg-id="" tvg-name="Vamos HD ES" tvg-logo="" group-title="Spain Channel",Vamos HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9297
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD ES" tvg-logo="" group-title="Spain Channel",Nat Geo FHD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9348
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD ES" tvg-logo="" group-title="Spain Channel",Nat Geo Wild HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9347
+#EXTINF:-1 tvg-id="" tvg-name="Clan TVE ES" tvg-logo="" group-title="Spain Channel",Clan TVE ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9298
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia TV ES" tvg-logo="" group-title="Spain Channel",Iberalia TV ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9300
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD ES" tvg-logo="" group-title="Spain Channel",AXN HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9751
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD  ES" tvg-logo="" group-title="Spain Channel",AXN WHITE HD  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9752
+#EXTINF:-1 tvg-id="" tvg-name="TNT  HD ES" tvg-logo="" group-title="Spain Channel",TNT  HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9753
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD  ES" tvg-logo="" group-title="Spain Channel",LA SEXTA HD  ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9754
+#EXTINF:-1 tvg-id="" tvg-name="M. ALQUILER 1 HD ES" tvg-logo="" group-title="Spain Channel",M. ALQUILER 1 HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9755
+#EXTINF:-1 tvg-id="" tvg-name="M. ALQUILER 2 HD ES" tvg-logo="" group-title="Spain Channel",M. ALQUILER 2 HD ES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9756
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/15754
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 1" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 1
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9736
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 2" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 2
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9735
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 3" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9734
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 4" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 4
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9733
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 5" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 5
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9732
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 6" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 6
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9655
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 7" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 7
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9746
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 8" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 8
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/10019
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 9" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 9
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9644
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 10" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 10
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9643
+#EXTINF:-1 tvg-id="" tvg-name="+18 Porn Mix 11" tvg-logo="" group-title="For Adults 18 +",+18 Porn Mix 11
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9642
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 12" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 12
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9641
+#EXTINF:-1 tvg-id="" tvg-name="+18 Porn Mix 13" tvg-logo="" group-title="For Adults 18 +",+18 Porn Mix 13
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9640
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 14" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 14
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9639
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 15" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 15
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9638
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 1 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 1 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9647
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 2 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 2 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9648
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 3 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 3 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9649
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 4 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 4 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9650
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 5 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 5 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9651
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 6 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 6 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9652
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 7 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 7 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9653
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 17" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 17
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9738
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 16" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 16
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9740
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 18" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 18
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9739
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 23" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 23
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9741
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 19" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 19
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9742
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 20" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 20
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9743
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 21" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 21
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9744
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 22" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 22
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9745
+#EXTINF:-1 tvg-id="" tvg-name="Junior TV  AL" tvg-logo="" group-title="Albanian Channel",Junior TV  AL
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9231
+
