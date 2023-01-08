@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 #EXTINF:-1 tvg-id="" tvg-name="---●★| MOVISTAR |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|TV| ESPAGNE  | IPTV",---●★| MOVISTAR |★●---
 http://beta-pro.com:8000/live/rachidpc2_496209/29085196/34967.ts?play_token=go5TtfBfch:1673135537:5529
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES| LA 1 FHD" tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|TV| ESPAGNE  | IPTV",|ES| LA 1 FHD
